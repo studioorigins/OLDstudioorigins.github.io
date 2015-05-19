@@ -4,3 +4,6 @@
 [submodule "documentation"]
 	path = documentation
 	url = https://github.com/studioorigins/documentation.git
+[submodule "repo"]
+	path = repo
+	url = https://gitlab.com/emonhub/emonhub.git
