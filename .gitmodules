@@ -1,0 +1,3 @@
+[submodule "libfoo"]
+        path = 
+        url = https://github.com/studioorigins/documentation.git
